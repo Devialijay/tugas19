@@ -7,7 +7,6 @@ import org.openqa.selenium.By;
 import pages.WebPage;
 
 public class WebStep {
-
     WebPage webPage;
 
     public WebStep() {
@@ -62,7 +61,7 @@ public class WebStep {
     @And("user click sort item high to low")
     public void userClickSortItemHighToLow() {
         webPage.clickSortItemHighToLow();
-
+        
     }
 
     @And("user click sort item Z to A")

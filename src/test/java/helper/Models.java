@@ -5,7 +5,7 @@ import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
 import org.json.JSONObject;
 
-import static helper.Ultility.generateRandomEmail;
+import static helper.Utility.generateRandomEmail;
 
 public class Models {
     private static RequestSpecification request;

@@ -4,7 +4,7 @@ import org.openqa.selenium.By;
 
 import java.util.Objects;
 
-import static helper.Ultility.driver;
+import static helper.Utility.driver;
 import static org.assertj.core.api.Assertions.assertThat;
 
 public class WebPage {

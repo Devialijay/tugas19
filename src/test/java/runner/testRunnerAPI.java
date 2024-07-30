@@ -12,6 +12,5 @@ import org.junit.runner.RunWith;
         tags = "@api",
         monochrome = true
 )
-
 public class testRunnerAPI {
 }
